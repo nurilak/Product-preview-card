@@ -58,7 +58,7 @@ These are resourses i use ofter to understasand and learn more about HTML, CSS a
 - Bitcamp.ge - [resource 1](https://www.bitcamp.ge/)
 - Bitcamp Youtube Channel - [resource 2](https://www.youtube.com/@bitcampge)
 
-- Kewin Powell's Youtube Channel - [resource 2](https://www.youtube.com/@KevinPowell)
+- Kewin Powell's Youtube Channel - [resource 3](https://www.youtube.com/@KevinPowell)
 
 - Google Search is Greatest Resourse also -
 
