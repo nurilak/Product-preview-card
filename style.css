@@ -18,9 +18,6 @@ main {
 }
 
 /* images CSS */
-.images {
-  max-width: 100%;
-}
 
 .mb_img {
   max-width: 100%;
@@ -101,10 +98,18 @@ button:hover {
   .mb_img {
     display: none;
   }
+  
+  .images {
+    width: 50%;
+  }
+  
+  .texts {
+    width: 50%;
+  }
+
   .ds_img {
-    display: inline-block;
+    display: block;
     max-width: 100%;
-    height: 100%;
   }
 
   main {
