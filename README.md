@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -14,6 +14,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -22,7 +25,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
 
 ### Screenshot
 
@@ -30,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/nurilak/Product-preview-card)
-- Live Site URL: (https://nurilak.github.io/Product-preview-card/)
+- Solution URL: https://github.com/nurilak/Stats-preview-card
+- Live Site URL: https://nurilak.github.io/Stats-preview-card/
 
 ## My process
 
@@ -41,11 +43,12 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Media Query
 - Other parts of HTML and CSS
 
 ### What I learned
 
-In this challenge I learn more about CSS of website responsivnes and image configurations.
+In this challenge I learn more about CSS of website responsivnes and image configurations, also usage <picture> HTML element and transparent colors on images.
 
 ### Continued development
 
